@@ -86,7 +86,7 @@ class PrestamoLibro extends Component {
     if (!libro) return <Spinner />
 
     // Extraer los datos del alumno
-    const { noResultados, resultado } = this.state;
+    const { resultado } = this.state;
 
     let fichaAlumno, btnSolicitar;
     if (resultado.nombre) {
