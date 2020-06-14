@@ -1,3 +1,8 @@
+**Para probar la aplicación puedes user las siguientes credenciales:**
+
+correo: correo@correo.com - pass: 123456
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
