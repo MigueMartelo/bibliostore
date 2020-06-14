@@ -1,4 +1,4 @@
-**Para probar la aplicación puedes user las siguientes credenciales:**
+**Para probar la aplicación puedes usar las siguientes credenciales:**
 
 correo: correo@correo.com - pass: 123456
 
